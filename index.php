@@ -30,5 +30,7 @@
         echo '<h1>My age is '.$age.'</h1>';
         echo "<h1>My age is also $age.</h1>";
     ?>
+
+<a href="https://www.heroku.com">Heroku</a>
 </body>
 </html>
